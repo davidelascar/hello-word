@@ -1,0 +1,1 @@
+git add file_or_folder1 file_or_folder2

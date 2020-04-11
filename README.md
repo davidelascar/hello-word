@@ -1,4 +1,4 @@
-# my_first_repository
+# hello-word
 lets try to use github
 
 Right now i don't know what will be here
